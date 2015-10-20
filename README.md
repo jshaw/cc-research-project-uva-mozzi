@@ -1,5 +1,5 @@
 # Creation & Computation Research Project on Volume by United Visual Artist
-## Arduino slave controller for Mozzi 
+### Arduino slave controller for Mozzi 
 
 For our research project in our Creation & Computation class were tasked to do a presentation and prototype as a proof of concept for the installation by United Visual Artists called Volume.
 
