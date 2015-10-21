@@ -11,6 +11,6 @@ To prototype this installation we made use of the following Arduino Libraries:
 
 Because of the dependencies and that Mozzi overwrites some default Arduino functions we needed to use a secondary Arduino to run only Mozzi.
 
-The first Arduino which is used to control and run the LED matrix and Sonar Sensor has it's own repo [here](https://github.com/jshaw/cc-research-project-uva-mozzi). 
+The first Arduino which is used to control and run the LED matrix and Sonar Sensor has its own repo [here](https://github.com/jshaw/cc-research-project-uva-mozzi). 
 
 We also have a post on the Creation & Computation class [blog titles Research Project: Volume by United Visual Artist](http://blog.ocad.ca/wordpress/digf6037-fw201502-01/2015/10/research-project-volume-by-united-visual-artist/).
